@@ -29,5 +29,5 @@ def pd(length, str_product, compare):
 
 
 main()
-time.sleep(3)
+time.sleep(2)
 input("Press enter to exit.")

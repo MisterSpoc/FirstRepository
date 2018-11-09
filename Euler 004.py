@@ -1,4 +1,5 @@
 import math
+import time
 
 def main():
 
@@ -28,4 +29,5 @@ def pd(length, str_product, compare):
 
 
 main()
-input("Press enter to exit")
+time.sleep(2)
+input("Press enter to exit.")
